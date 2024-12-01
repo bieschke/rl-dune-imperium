@@ -1,2 +1,6 @@
+black
 pettingzoo
+pre-commit
+pytest
+pytest-flake8
 ray[rllib]
